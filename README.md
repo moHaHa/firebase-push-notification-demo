@@ -1,1 +1,3 @@
-This is a demo project based on blog post https://www.itwonders-web.com/blog/push-notification-using-firebase-demo-tutorial/
+# Firebase Messaging Demo 
+
+replace `AUTH_TOKEN`  and `BASE_URL` and `firebaseConfig` with yours
